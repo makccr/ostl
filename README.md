@@ -1,3 +1,7 @@
+<a href="https://makc.co">
+    <img src="https://makc.co/images/github-header.svg" alt="MAKC lgoo" title="MAKC" align="right" height="50" />
+</a>
+
 # Open Source Theoretical Linguistics Degree (OSTLD)
 
 A self‑paced, entirely free curriculum designed to give you the core knowledge of an undergraduate **Theoretical Linguistics** program.  
